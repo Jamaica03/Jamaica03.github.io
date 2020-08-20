@@ -1,6 +1,2 @@
 Thanks for downloading this template!
-
-Template Name: Jamaica
-Template URL: https://bootstrapmade.com/Jamaica-free-bootstrap-cv-resume-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This website is for employers to see my resume there is information talking about skills and work experince and some facts about me. 
